@@ -1,0 +1,29 @@
+.footer-container{
+  height: 290px;
+  width: 100%;
+  background-color: #210101;
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  margin-top: 50px;
+
+}
+.footer-section{
+  margin-top: 80px;
+}
+.footer-section1{
+  margin-top: 80px;
+}
+.footer-section2{
+  margin-top: 80px;
+}
+.footer-section3{
+  margin-top: 80px;
+}
+.footer-section4{
+  margin-top: 80px;
+}
+
+
+
+

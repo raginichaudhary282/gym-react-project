@@ -1,0 +1,42 @@
+.div1{
+    height: 650px;
+    width: 670px;
+   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+   margin-top: 20px;
+   
+}
+.div2{
+    height: 650px;
+    width: 670px;
+   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); 
+   margin-top: 35px;
+}
+.div3{
+    height: 650px;
+    width: 670px;
+   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);   
+   margin-top: 35px; 
+}
+
+
+.main-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+   
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top:10px;
+    margin-bottom: 25px;   
+}
+h2{
+    color: blue;
+    text-decoration: underline;
+    margin-top: 20px
+}
